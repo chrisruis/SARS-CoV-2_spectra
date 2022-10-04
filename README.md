@@ -12,4 +12,4 @@ The SARS-CoV-2 lineage spectra are in directory SARS-CoV-2, calculated from sequ
 
 # figures directory
 
-This directory contains data and scripts used in figures. Directories contain individual READMEs with details
+This directory contains data used in figures. Directories contain individual READMEs with details
