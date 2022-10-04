@@ -10,4 +10,4 @@ The sequence alignments have suffix .fasta, the rooted phylogenetic trees have s
 
 # figures directory
 
-This directory contains data and scripts used in figures
+This directory contains data and scripts used in figures. Directories contain individual READMEs with details
